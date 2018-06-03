@@ -10,8 +10,10 @@
 
 Open terminal and run:
 ```
-classwork1.py -f reads.fasta -q 35 
+КР1.py -f reads.fasta -q 35 
+
 ```
+*КР1 - на русском К и Р
 
 ## Author
 
